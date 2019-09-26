@@ -2,7 +2,7 @@ const express=require('express')
 const path=require('path')
 const ejs=require('ejs');
 const morgan=require('morgan')
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 6000
 
 var app=new express()
 
