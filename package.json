@@ -9,7 +9,7 @@
   "author": "Zubisoft",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.7.1",
+    "ejs": "^3.1.7",
     "express": "^4.18.2",
     "morgan": "^1.9.1",
     "path": "^0.12.7"
